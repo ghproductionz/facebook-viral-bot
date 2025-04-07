@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 
 # === CONFIG ===
 ACCESS_TOKEN = "Yhttps://graph.facebook.com/v18.0/oauth/access_token?%20grant_type=fb_exchange_token&%20client_id=1023167986411330&%20client_secret=eb12d45b5d866b6518e87df43b96f1bd&%20fb_exchange_token=EAAOikNxgJ0IBO3mk94mMCsdDjpuCBjWFZCknTCjSjvtJQwpJu57chJCwrhtEORiw97ZA8dyk7MdbZAijXryFDQtMEmoOcpedZBHbbZByjio5b0XgUgaI1Ly3bfUuU23Nhp18qUHKtro8gZCvq3zBq0ZCMLVAcK7tBCi4JBteaR9Nh55sIak3LyUSA2SGJHrvunLRFZATjZBovQ5c6sAZCvm9Pox5kjAPeEQ4hFZCRud98SGNRwM"
-PAGES = ["tv3ghana", "PulseGhana", "dailygraphicghana", "TheGhanaWeb"]
+PAGES = ["tv3ghana", "PulseGhana", "dailygraphicghana", "TheGhanaWeb","LADbible","DailyMail"]
 VIRAL_LIKE_THRESHOLD = 1000
 EMAIL_TO = "contact@omgvoice.com"
 EMAIL_FROM = "your.email@gmail.com"
